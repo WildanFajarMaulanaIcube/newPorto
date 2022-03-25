@@ -17,10 +17,10 @@
     include_once('./layout/navbar.php');
     ?>
     <div class="container py-3">
-        <h1>Hello</h1>
+        <h1>Hello Wildan Baru branch develop</h1>
     </div>
         <div class="container py-3">
-            <h1>Hello</h1>
+            <h1>Hello Wildan</h1>
         </div>
 </body>
 
