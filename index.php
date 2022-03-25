@@ -19,6 +19,12 @@
     <div class="container py-3">
         <h1>Hello</h1>
     </div>
+<<<<<<< Updated upstream
+=======
+        <div class="container py-3">
+            <h1>Hello wildev</h1>
+        </div>
+>>>>>>> Stashed changes
 </body>
 
 </html>
