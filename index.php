@@ -17,12 +17,14 @@
     include_once('./layout/navbar.php');
     ?>
     <div class="container py-3">
-
-        <h1>Hello Wildan Baru branch develop</h1>
+        <h1>Halo Perkenalkan Saya Wildan Backend Dev</h1>
     </div>
+
         <div class="container py-3">
-            <h1>Hello Wildan</h1>
+            <h1>Hello wildev</h1>
         </div>
+>>>>>>> Stashed changes
+>>>>>>> 49e0e8c50a7912a0e5d9e5d5263460ec893bf510
 </body>
 
 </html>
