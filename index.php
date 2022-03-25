@@ -17,6 +17,7 @@
     include_once('./layout/navbar.php');
     ?>
     <div class="container py-3">
+        <p>Developer</p>
         <h1>Halo Perkenalkan Saya Wildan Backend Dev</h1>
     </div>
 
